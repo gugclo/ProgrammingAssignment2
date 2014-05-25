@@ -1,5 +1,5 @@
 ## The two functions below help to illustrate the concept of storing the output of
-## time-consuming calculations in the cache using R's lexical scoping.
+## time-consuming calculations in the cache using lexical scoping.
 
 ## makeCacheMatrix takes an invertible matrix as an input and returns a list of
 ## four functions that: (1) set the value of the matrix, (2) get the value of
